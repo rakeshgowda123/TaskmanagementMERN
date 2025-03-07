@@ -2,7 +2,7 @@
 
 A full-stack task management application built with React, TypeScript, and Supabase.
 
-#live deme [https://taskmanagement-mern.vercel.app/login]
+#live deme [https://taskmanagement-mern.vercel.app/]
 
 ## Features
 

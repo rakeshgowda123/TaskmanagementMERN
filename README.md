@@ -101,3 +101,8 @@ To deploy this application:
 - Recurring tasks
 - Task attachments
 - Mobile application
+![Screenshot 2025-03-09 114842](https://github.com/user-attachments/assets/1189e676-3e6e-4306-a74b-fe007bebc4e7)
+![Screenshot 2025-03-09 114852](https://github.com/user-attachments/assets/07a6b02e-1384-49cd-806a-06f88d44eb96)
+![Screenshot 2025-03-09 114910](https://github.com/user-attachments/assets/aed478a3-ee77-484c-ab5a-d2acc84b0127)
+![Screenshot 2025-03-09 114821](https://github.com/user-attachments/assets/1e54768c-ae5d-48aa-88b9-87a51f328084)
+![Screenshot 2025-03-09 114813](https://github.com/user-attachments/assets/5cc24e3d-4262-4520-8269-818d43a8840b)

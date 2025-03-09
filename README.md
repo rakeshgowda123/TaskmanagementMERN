@@ -29,10 +29,6 @@ A full-stack task management application built with React, TypeScript, and Supab
   - Date-fns (for date formatting)
   - Lucide React (for icons)
 
-- **Backend**:
-  - Supabase (PostgreSQL database)
-  - Supabase Authentication
-  - Row Level Security (RLS)
 
 ## Setup Instructions
 
@@ -105,6 +101,3 @@ To deploy this application:
 - Recurring tasks
 - Task attachments
 - Mobile application
-
-VITE_SUPABASE_URL=https://jnpztmirpmgcrewfsykm.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpucHp0bWlycG1nY3Jld2ZzeWttIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA4OTY0MjYsImV4cCI6MjA1NjQ3MjQyNn0.pW3B4k0DPcLmli9N8gpmXEmVAvyo52UalQpbyrkL9uo
